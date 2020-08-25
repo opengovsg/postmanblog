@@ -1,11 +1,9 @@
 ---
-title: "Tutorial: Formatting an Email
+title: Tutorial - Formatting an Email
 date: 2020-08-25
 hero: "/images/hero-2.jpg"
-excerpt: Learn to format your emails easily with this simple tutorial on html tags"
-timeToRead = 5
-authors:
-  - Hugo Authors
+excerpt: Learn to format your emails easily with this simple tutorial on html tags
+timeToRead: 5
 ---
 
 Now that you have sent a plaintext to a colleague, you are wondering if you can format your emails nicely in Postman. The answer is yes!
