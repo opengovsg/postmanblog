@@ -25,54 +25,56 @@ How HTML works is that you start with **<xyz>** and end with **</xyz>**. For eve
 
 ### **Bold**
 
-    <b>Postman</b>
-    
-    Ex: Postman is the <b>greatest</b> product ever!
+<b>Postman</b>
+
+Ex: Postman is the <b>greatest</b> product ever!
 
 ### **Underline**
 
-    <u>Postman</u>
-    
-    Ex: Please remember to bring your <u>appointment letter</u>.
+<u>Postman</u>
+
+Ex: Please remember to bring your <u>appointment letter</u>.
 
 ### **Italic**
 
-    <i>Postman</i>
-    
-    Ex: Dear <i>Mary Tan</i>, Please remember to bring your passport for your application.
+<i>Postman</i>
+
+Ex: Dear <i>Mary Tan</i>, Please remember to bring your passport for your application.
 
 ### **Hyperlink**
 
-    <a href="https://postman.gov.sg">postman</a>
-    
-    Let's break this down:
-    
-    <a href="    ">          </a> is the syntax.
-    
-    **<a href="https://linkofyourwebsite.gov.sg">**the word that you want to make into a link </a>
-    
-    Ex: For more information, please visit postman's<a href="https://postman.gov.sg">webite</a>.
+<a href="https://postman.gov.sg">postman</a>
+
+Let's break this down:
+
+<a href="    ">          </a> is the syntax.
+
+\**<a href="https://linkofyourwebsite.gov.sg">**the word that you want to make into a link </a>
+
+Ex: For more information, please visit postman's<a href="https://postman.gov.sg">webite</a>.
 
 ## Bring it all together
 
-> Dear citizen,
->
-> _Thank you_ for supporting charity drive 2020. Please visit our [Facebook group](https://facebook.com/yourgroupname%22) to see the pictures from the event.
->
-> For more info, please visit our [website](https://agency.gov.sg)
->
-> Sincerely,
->
-> Agency XYZ
+Dear citizen,
 
-    Dear citizen,
-    
-    <i>Thank you</i> for supporting charity drive 2020. Please visit our <a href="https://facebook.com/yourgroupname">Facebook group</a> to see the pictures from the event.
-    For more info, please visit our <a href="https://agency.gov.sg>website</a>.
-    
-    Sincerely,
-    
-    <b>Agency XYZ</b>
+_Thank you_ for supporting charity drive 2020. Please visit our [Facebook group](https://facebook.com/yourgroupname%22) to see the pictures from the event.
+
+For more info, please visit our [website](https://agency.gov.sg)
+
+Sincerely,
+
+Agency XYZ
+
+--------
+
+Dear citizen,
+
+<i>Thank you</i> for supporting charity drive 2020. Please visit our <a href="https://facebook.com/yourgroupname">Facebook group</a> to see the pictures from the event.
+For more info, please visit our <a href="https://agency.gov.sg>website</a>.
+
+Sincerely,
+
+<b>Agency XYZ</b>
 
 It might seem daunting to tackle HTML tags. What you could do is to write your email in a **Microsoft Notepad** without any formatting and figure out where you want to add in the formatting and copy/paste the HTML tags into your draft and replace the placeholder content with your own content.
 
