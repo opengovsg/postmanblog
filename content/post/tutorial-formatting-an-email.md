@@ -58,15 +58,15 @@ Ex: For more information, please visit postman's<a href="https://postman.gov.sg"
 
 ## Bring it all together
 
-> Dear citizen,
-> 
-> _Thank you_ for supporting charity drive 2020. Please visit our [Facebook group](https://facebook.com/yourgroupname%22) to see the pictures from the event.
-> 
-> For more info, please visit our [website](https://agency.gov.sg)
-> 
-> Sincerely,
-> 
-> Agency XYZ
+ Dear citizen,
+ 
+ *Thank you* for supporting charity drive 2020. Please visit our [Facebook group](https://facebook.com/yourgroupname%22) to see the pictures from the event.
+ 
+ For more info, please visit our [website](https://agency.gov.sg)
+ 
+ Sincerely,
+ 
+ **Agency XYZ**
 
 --------
 ```html
