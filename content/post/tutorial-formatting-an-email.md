@@ -1,7 +1,6 @@
 +++
 authors = []
 date = 2020-08-25T04:00:00Z
-draft = true
 excerpt = "Learn to format your emails easily with this simple tutorial on html tags"
 hero = "/uploads/whyusepostman-3.png"
 timeToRead = 5
