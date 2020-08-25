@@ -2,7 +2,7 @@
 authors = []
 date = 2020-08-25T04:00:00Z
 excerpt = "Learn to format your emails easily with this simple tutorial on html tags"
-hero = "/uploads/whyusepostman-3.png"
+hero = ""
 timeToRead = 5
 title = "Tutorial: Formatting an Email"
 
@@ -26,33 +26,32 @@ How HTML works is that you start with **<xyz>** and end with **</xyz>**. For eve
 ### **Bold**
 
     <b>Postman</b>
-
-Ex: Postman is the **<b>greatest**</b> product ever!
+    
+    Ex: Postman is the <b>greatest</b> product ever!
 
 ### **Underline**
 
     <u>Postman</u>
-
-Ex: Please remember to bring your **<u>appointment letter**</u>.
+    
+    Ex: Please remember to bring your <u>appointment letter</u>.
 
 ### **Italic**
 
     <i>Postman</i>
-
-Ex: Dear <i>Mary Tan</i>, Please remember to bring your passport for your application.
+    
+    Ex: Dear <i>Mary Tan</i>, Please remember to bring your passport for your application.
 
 ### **Hyperlink**
 
     <a href="https://postman.gov.sg">postman</a>
-
-Let's break this down:
-
-**<a href="    ">          </a>** is the syntax.
-
-\**<a href="**https://linkofyourwebsite.gov.sg**">**the word that you want to make into a link **</a>**
-
-Ex: For more information, please visit postman's  
-<a href="[https://postman.gov.sg](https://postman.gov.sg "https://postman.gov.sg")">webite</a>.
+    
+    Let's break this down:
+    
+    <a href="    ">          </a> is the syntax.
+    
+    **<a href="https://linkofyourwebsite.gov.sg">**the word that you want to make into a link </a>
+    
+    Ex: For more information, please visit postman's<a href="https://postman.gov.sg">webite</a>.
 
 ## Bring it all together
 
@@ -75,6 +74,6 @@ Ex: For more information, please visit postman's
     
     <b>Agency XYZ</b>
 
-It might seem daunting to tackle HTML tags. What you could do is to write your email in a **Microsoft Notepad** without any formatting and figure out where you want to add in the formatting and copy/paste the HTML tags into your draft and replace the placeholder content with your own content. 
+It might seem daunting to tackle HTML tags. What you could do is to write your email in a **Microsoft Notepad** without any formatting and figure out where you want to add in the formatting and copy/paste the HTML tags into your draft and replace the placeholder content with your own content.
 
 Start your HTML journey small by incorporating the bold tag in an email campaign and slowly build your way up to a power user! 💪
