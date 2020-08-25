@@ -1,14 +1,13 @@
 ---
 title: Why we built a company before building a product
 date: 2019-04-30
-hero: /images/hero-6.jpg
+hero: "/images/hero-6.jpg"
 excerpt: this is my excerpt
-timeToRead: 3
+timeToRead: "3"
 authors:
-  - Thiago Costa
+- Petty Chen
 
 ---
-
 Hello, world! This is a demo post for `hugo-theme-novela`. Novela is built by the team at [Narative](https://narative.co), and built for everyone that loves the web.
 
 In my experience, the challenges that growing companies struggle with rarely stem from a lack of good ideas. Good ideas are everywhere.
@@ -101,27 +100,25 @@ These are the circumstances that suffocate creativity and destroy value in an or
 
 ## This is a secondary heading
 
-```jsx
-import React from "react";
-import { ThemeProvider } from "theme-ui";
-import theme from "./theme";
+    import React from "react";
+    import { ThemeProvider } from "theme-ui";
+    import theme from "./theme";
+    
+    export default props => (
+      <ThemeProvider theme={theme}>{props.children}</ThemeProvider>
+    );
 
-export default props => (
-  <ThemeProvider theme={theme}>{props.children}</ThemeProvider>
-);
-```
+    These are the circumstances that suffocate creativity and destroy value in an organization. That’s why I knew that if I was going to start a company, our first product would have to be the company itself. These are the circumstances that suffocate creativity and destroy value in an organization. That’s why I knew that if I was going to start a company, our first product would have to be the company itself. These are the circumstances that suffocate creativity and destroy value in an organization. That’s why I knew that if I was going to start a company, our first product would have to be the company itself. These are the circumstances that suffocate creativity and destroy value in an organization. That’s why I knew that if I was going to start a company, our first product would have to be the company itself.
 
-These are the circumstances that suffocate creativity and destroy value in an organization. That’s why I knew that if I was going to start a company, our first product would have to be the company itself. These are the circumstances that suffocate creativity and destroy value in an organization. That’s why I knew that if I was going to start a company, our first product would have to be the company itself. These are the circumstances that suffocate creativity and destroy value in an organization. That’s why I knew that if I was going to start a company, our first product would have to be the company itself. These are the circumstances that suffocate creativity and destroy value in an organization. That’s why I knew that if I was going to start a company, our first product would have to be the company itself.
-
----
+***
 
 Hyphens
 
----
+***
 
 Asterisks
 
----
+***
 
 Underscores
 
@@ -139,7 +136,7 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 
 1. First ordered list item
 2. Another item
-   ⋅⋅\* Unordered sub-list.
+   ⋅⋅* Unordered sub-list.
 3. Actual numbers don't matter, just that it's a number
    ⋅⋅1. Ordered sub-list
 4. And another item.
@@ -150,8 +147,10 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 ⋅⋅⋅Note that this line is separate, but within the same paragraph.⋅⋅
 ⋅⋅⋅(This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.)
 
-- Unordered list can use asterisks
+* Unordered list can use asterisks
+
 
 * Or minuses
 
-- Or pluses
+
+* Or pluses
