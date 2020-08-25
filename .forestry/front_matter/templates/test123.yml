@@ -21,4 +21,4 @@ fields:
   name: authors
   label: authors
 pages:
-- content/post/hello-world.md
+- content/post/test.md
