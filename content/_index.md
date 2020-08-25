@@ -1,7 +1,7 @@
 ---
 hero:
-  heading: Novela, the simplest way to start publishing with Hugo and Forestry.
+  heading: Postman.gov.sg is the mass messaging product for the Singapore Government
   maxWidthPX: 652
 seo:
-  image: /images/hero-2.jpg
+  image: /images/static/images/favicon.svg
 ---
